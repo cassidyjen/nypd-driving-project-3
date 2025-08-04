@@ -1,7 +1,5 @@
 # nypd-driving-project
 
-# nypd-driving-project
-
 ## Internal NYPD Files Related to Officers' Driving 
 
 ### Goals
